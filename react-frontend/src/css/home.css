@@ -1,0 +1,29 @@
+.h1-home-title {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 50px;
+}
+
+.daily-brief-header {
+    text-align: center;
+}
+
+.home-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* border: 1px solid black; */
+}
+
+.home-column {
+    /* border: 1px solid black; */
+    margin: 5% 20% 5% 20%;
+}
+
+.home-column h1 {
+    margin: 5%;
+}
+
+.home-column p {
+    text-align: justify;
+}
