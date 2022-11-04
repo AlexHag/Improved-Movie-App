@@ -1,4 +1,3 @@
 .vscode
-./client/node_modules
 ./myApp.API/bin
 ./myApp.API/obj
